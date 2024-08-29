@@ -82,7 +82,7 @@ print("RMSE= ",rmse)
 ## Output:
 ## DataSet:
 ![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
-## Hard Values:
+## Head Values:
 ![image](https://github.com/user-attachments/assets/f501445a-e9c4-432b-af9b-30873f36fec3)
 ## Tail Values:
 ![image](https://github.com/user-attachments/assets/2141027a-19e3-4dba-9421-3484bef1ac9d)
@@ -94,6 +94,7 @@ print("RMSE= ",rmse)
 ![image](https://github.com/user-attachments/assets/bc9e53aa-29ae-463c-a750-7ebc8c12592a)
 ## Training Set:
 ![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
+## Testing Set:
 ![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
 
 ## Result:
