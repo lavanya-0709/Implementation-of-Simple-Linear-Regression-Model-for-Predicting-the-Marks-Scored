@@ -80,22 +80,21 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-## DataSet:
-![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
-## Head Values:
-![image](https://github.com/user-attachments/assets/f501445a-e9c4-432b-af9b-30873f36fec3)
-## Tail Values:
-![image](https://github.com/user-attachments/assets/2141027a-19e3-4dba-9421-3484bef1ac9d)
-## X and Y Values:
-![image](https://github.com/user-attachments/assets/6effc881-f9fc-42bf-ade0-b3c2ca303b26)
-## Prediction of X and Y:
-![image](https://github.com/user-attachments/assets/66cb9040-9730-4a70-ac94-21303b0d9e78)
-## MSE, MAE and RMSE:
-![image](https://github.com/user-attachments/assets/bc9e53aa-29ae-463c-a750-7ebc8c12592a)
-## Training Set:
-![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
-## Testing Set:
-![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
+## Predicted Values of X and Y:
+[17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
+ 20.91914167 78.09382734 69.37226512]
+[20 27 69 30 62 35 24 86 76]
+
+## MSE , MAE and RMSE:
+MSE =  4.691397441397438
+MAE =  4.691397441397438
+RMSE=  2.1659633979819324
+
+## Training Set
+![image](https://github.com/user-attachments/assets/c187e66b-8049-4db9-ad33-9ff53d264e90)
+## Testing Set
+![image](https://github.com/user-attachments/assets/d9e05e48-d341-4c72-8d90-d1f7fda74dc4)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
