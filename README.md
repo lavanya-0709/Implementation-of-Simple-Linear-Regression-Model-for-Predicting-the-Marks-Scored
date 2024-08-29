@@ -81,14 +81,18 @@ print("RMSE= ",rmse)
 
 ## Output:
 ## Predicted Values of X and Y:
+```
 [17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
  20.91914167 78.09382734 69.37226512]
 [20 27 69 30 62 35 24 86 76]
+```
 
 ## MSE , MAE and RMSE:
+```
 MSE =  4.691397441397438
 MAE =  4.691397441397438
 RMSE=  2.1659633979819324
+```
 
 ## Training Set
 ![image](https://github.com/user-attachments/assets/c187e66b-8049-4db9-ad33-9ff53d264e90)
